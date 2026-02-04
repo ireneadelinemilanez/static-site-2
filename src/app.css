@@ -9,13 +9,13 @@
    =========================================== */
 :root {
   /* NYCity News Service Colors */
-  --color-cuny-blue: #0033A1;     /* CUNY Blue (PMS 286) */
+  --color-cuny-blue: #25532c;     /* CUNY Blue (PMS 286) */
   --color-accent: #0033A1;        /* CUNY Blue as accent */
   --color-accent-hover: #002880;
   --color-dark: #1a1a1a;
   --color-text: #333333;
-  --color-white: #ffffff;
-  --color-light-gray: #f5f5f5;
+  --color-white: #fff7ea;
+  --color-light-gray: #f8e9c9;
   --color-medium-gray: #666666;
   --color-border: #e0e0e0;
   --color-nav-bg: #ffffff;
